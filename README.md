@@ -41,6 +41,6 @@ To delete a branch, in your terminal: git branch -d {branch name}
 In your terminal: git merge {branch you want to merge}
 Branch will be merged to whatever branch you are currently on
 
-##git diff
+## git diff
 In your terminal: git diff
 See and compare changes in your branch
