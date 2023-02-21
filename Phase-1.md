@@ -2,8 +2,8 @@
 ## Day 1 Prep
 [Functions & Scope prep](https://github.com/jeryelblanco/Day1-prep)
 
-## Day 1 Lecture code
-[Iteration]
+## Day 1 Iteration lecture code
+[Iteration](https://github.com/jeryelblanco/iteration-LEC)
 ## Day 1 Homework
 [Iteration](https://github.com/jeryelblanco/Day1_Homework)
 ## Fetching
