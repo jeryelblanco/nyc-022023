@@ -2,6 +2,8 @@
 ## Day 1 Prep
 [Functions & Scope prep](https://github.com/jeryelblanco/Day1-prep)
 
+## Day 1 Functions and Scope lecture
+[Functions & Scope lecture reference](https://github.com/charliekozey/lesson-plans/tree/main/JavaScript/functions-and-scope)
 ## Day 1 Iteration lecture code
 [Iteration](https://github.com/jeryelblanco/iteration-LEC)
 ## Day 1 Homework
