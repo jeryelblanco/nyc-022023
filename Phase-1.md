@@ -10,3 +10,4 @@
 [Fetch with Async await or .then](https://github.com/jeryelblanco/basicfetch)
 
 ## Day 2 DOM Manipulation and Events Lecutre
+[DOM and Events LEC](https://github.com/jeryelblanco/Day2_LEC)
