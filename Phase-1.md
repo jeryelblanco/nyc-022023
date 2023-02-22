@@ -15,3 +15,5 @@
 [DOM Manipulation](https://github.com/charliekozey/lesson-plans/tree/main/JavaScript/dom-manipulation)
 ## Day 2 DOM Manipulation and Events Lecutre
 [DOM and Events LEC](https://github.com/jeryelblanco/Day2_LEC)
+## Day 2 Homework
+[DOM manipulation](https://github.com/jeryelblanco/day2_homework)
