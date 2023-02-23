@@ -20,3 +20,5 @@
 ## Day 3 Forms
 [Task Lister](https://github.com/jeryelblanco/day3_tasklister)
 [Basic Form](https://github.com/jeryelblanco/phase1-basic-form)
+## Day 3 Homeworl
+[Fetch](https://github.com/jeryelblanco/phase-1-day3-homework)
