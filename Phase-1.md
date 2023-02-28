@@ -18,7 +18,7 @@
 ## Day 2 Homework
 [DOM manipulation](https://github.com/jeryelblanco/day2_homework)
 ## Day 3 Forms
-[Task Lister](https://github.com/jeryelblanco/day3_tasklister)
-[Basic Form](https://github.com/jeryelblanco/phase1-basic-form)
+- [Task Lister](https://github.com/jeryelblanco/day3_tasklister)
+- [Basic Form](https://github.com/jeryelblanco/phase1-basic-form)
 ## Day 3 Homework
 [Fetch](https://github.com/jeryelblanco/phase-1-day3-homework)
