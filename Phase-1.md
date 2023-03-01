@@ -1,4 +1,5 @@
-# Phase-1
+# Phase 1
+# Week 1
 
 ## Day 1 Prep
 [Functions & Scope prep](https://github.com/jeryelblanco/Day1-prep)
@@ -17,12 +18,20 @@
 [DOM and Events LEC](https://github.com/jeryelblanco/Day2_LEC)
 ## Day 2 Homework
 [DOM manipulation](https://github.com/jeryelblanco/day2_homework)
+---
 ## Day 3 Forms
 - [Task Lister](https://github.com/jeryelblanco/day3_tasklister)
 - [Basic Form](https://github.com/jeryelblanco/phase1-basic-form)
 ## Day 3 Homework
 [Fetch](https://github.com/jeryelblanco/phase-1-day3-homework)
 
-Week 2
+# Week 2
+
 ## BookLiker (Jeryel's Solution)
 [Book Liker Lab](https://github.com/learn-co-curriculum/phase-1-bookliker/tree/new_branch)
+## BookLiker (Charlie's Solution)
+[With Explanation](https://github.com/learn-co-curriculum/phase-1-bookliker/tree/charlie-solution-with-explanation)
+[Code Only](https://github.com/learn-co-curriculum/phase-1-bookliker/tree/charlie-solution-code-only)
+## PATCH and DELETE
+[Lecture Slides](https://www.charliekozey.com/lessons/PATCH-and-DELETE.html)
+[Cookie CRUD Repo](https://github.com/charliekozey/cookie-app)
