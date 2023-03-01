@@ -22,3 +22,7 @@
 - [Basic Form](https://github.com/jeryelblanco/phase1-basic-form)
 ## Day 3 Homework
 [Fetch](https://github.com/jeryelblanco/phase-1-day3-homework)
+
+Week 2
+## BookLiker (Jeryel's Solution)
+[Book Liker Lab](https://github.com/learn-co-curriculum/phase-1-bookliker/tree/new_branch)
