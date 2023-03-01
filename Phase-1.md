@@ -30,8 +30,8 @@
 ## BookLiker (Jeryel's Solution)
 [Book Liker Lab](https://github.com/learn-co-curriculum/phase-1-bookliker/tree/new_branch)
 ## BookLiker (Charlie's Solution)
-[With Explanation](https://github.com/learn-co-curriculum/phase-1-bookliker/tree/charlie-solution-with-explanation)
-[Code Only](https://github.com/learn-co-curriculum/phase-1-bookliker/tree/charlie-solution-code-only)
+- [With Explanation](https://github.com/learn-co-curriculum/phase-1-bookliker/tree/charlie-solution-with-explanation)
+- [Code Only](https://github.com/learn-co-curriculum/phase-1-bookliker/tree/charlie-solution-code-only)
 ## PATCH and DELETE
-[Lecture Slides](https://www.charliekozey.com/lessons/PATCH-and-DELETE.html)
-[Cookie CRUD Repo](https://github.com/charliekozey/cookie-app)
+- [Lecture Slides](https://www.charliekozey.com/lessons/PATCH-and-DELETE.html)
+- [Cookie CRUD Repo](https://github.com/charliekozey/cookie-app)
