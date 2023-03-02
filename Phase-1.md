@@ -45,7 +45,7 @@
 # Day 5
 ## Toy Tale
 [Branch charlie-solution](https://github.com/learn-co-curriculum/phase-1-practice-toy-tale/tree/charlie-solution)
-(currently up to and including Add a New Toy - as of Wed Nov 30)
+
 
 [jeryel-solution](https://github.com/jeryelblanco/phase-1-practice-toy-tale/tree/jeryel)
 
