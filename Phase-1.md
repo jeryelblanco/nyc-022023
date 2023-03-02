@@ -35,3 +35,26 @@
 ## PATCH and DELETE
 - [Lecture Slides](https://www.charliekozey.com/lessons/PATCH-and-DELETE.html)
 - [Cookie CRUD Repo](https://github.com/charliekozey/cookie-app)
+
+
+# Day 4/5
+## Fetch using json-server (dogs and cats)
+[Using Fetch with DB](https://github.com/jeryelblanco/catsanddogs)
+## Fetch using api (pokemon images)
+[Using Fetch with API](https://github.com/jeryelblanco/fetch-using-api)
+# Day 5
+## Toy Tale
+[Branch charlie-solution](https://github.com/learn-co-curriculum/phase-1-practice-toy-tale/tree/charlie-solution)
+(currently up to and including Add a New Toy - as of Wed Nov 30)
+
+[jeryel-solution](https://github.com/jeryelblanco/phase-1-practice-toy-tale/tree/jeryel)
+
+[Deliverables.pdf](https://github.com/jeryelblanco/NYC-112122/files/10866322/Deliverables.pdf)
+
+
+# Day 6
+## Ramen Rater
+[Branch charlie-solution](https://github.com/learn-co-curriculum/phase-1-mock-cc-ramen-rater/tree/charlie-solution)
+(includes Delete Ramen functionality)
+
+[Jeryel Solution](https://github.com/jeryelblanco/ramen-mock)
